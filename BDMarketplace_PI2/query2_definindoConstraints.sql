@@ -195,3 +195,7 @@ CREATE TABLE inspecao (
 	FOREIGN KEY(locacaoID) REFERENCES locacao(id) 
 )
 GO
+
+-- Tabelas que serão utilizadas no java
+SELECT * FROM grupoVeiculo;
+SELECT * FROM veiculo;
