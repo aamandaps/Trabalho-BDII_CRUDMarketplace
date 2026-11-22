@@ -16,7 +16,6 @@ modificada.
 O trabalho final deverá conter:
 * Documentação
   * Matriz de Rastreabilidade;
-  * Documento de Visão;
   * Plano de Teste;
   * Diagrama de Caso de Uso;
   * Descritivo de Caso de Uso;
